@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538051544609.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "537A6E56",
+    "lastKnownWriteTime" : 1538051434,
+    "last_content_update" : 1538051434,
+    "path" : "~/Documents/Inchieste/carcere/sovraffollamento/scripts/sovraffollamento.R",
+    "project_path" : "scripts/sovraffollamento.R",
+    "properties" : {
+        "cursorPosition" : "59,0",
+        "scrollLine" : "40"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

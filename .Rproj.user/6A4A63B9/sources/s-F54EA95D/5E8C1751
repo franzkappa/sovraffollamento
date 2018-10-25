@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538045798595.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5E8C1751",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1538045798595,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "91422C86",
+        "caption" : "carceri",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=carceri&cache_key=91422C86",
+        "displayedObservations" : 190,
+        "environment" : "",
+        "object" : "carceri",
+        "preview" : 0,
+        "totalObservations" : 190,
+        "variables" : 15
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
